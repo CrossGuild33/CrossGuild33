@@ -19,13 +19,13 @@ Aplicação desenvolvida para estudo de deploy na AWS, banco de dados na nuvem e
 
 ---
 
-### 📌 [Contact_Manager API] (https://github.com/CrossGuild33/contact_manager_api) 
+### 📌 [Contact Manager API](https://github.com/CrossGuild33/contact_manager_api) 
 Gerenciador de contatos utilizando Python Flask, com foco em rotas REST, e integração com banco de dados; no front-end com html, css e javascript.  
 > Aprendizados: Flask-Python, MySQL, API RESTful, Javascript  boas práticas de versionamento.
 
 ---
 
-### [Contact_Manager FRONT] (https://github.com/CrossGuild33/contact_manager_front)
+### [Contact Manager FRONT] (https://github.com/CrossGuild33/contact_manager_front)
 Front do Gerenciador de contatos, consumindo as rotas  API REST com javascript.
 > Aprendizados: HTML, CSS, JavaScript.
 
