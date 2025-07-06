@@ -25,7 +25,7 @@ Gerenciador de contatos utilizando Python Flask, com foco em rotas REST, e integ
 
 ---
 
-### [Contact Manager FRONT] (https://github.com/CrossGuild33/contact_manager_front)
+### 📌 [Contact Manager FRONT](https://github.com/CrossGuild33/contact_manager_front)
 Front do Gerenciador de contatos, consumindo as rotas  API REST com javascript.
 > Aprendizados: HTML, CSS, JavaScript.
 
