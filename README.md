@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Julio Cesar Teixeira de Lima
 
-<!--
-**CrossGuild33/CrossGuild33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em resolver problemas com tecnologia, criando soluções práticas e funcionais com Python, automações, APIs, bancos de dados e testes.
 
-Here are some ideas to get you started:
+🚀 **Atualmente estou me dedicando a:**
+- Desenvolvimento com Python (APIs, testes automatizados, automação de tarefas)
+- Testes automatizados com Pytest
+- Integração de projetos com GitHub Actions e CI/CD
+- Bancos de dados (PostgreSQL, MySQL)
+- Estudos em RPA e automação de processos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 **Projetos em destaque**
+
+### 📌 [MedApp](https://github.com/CrossGuild33/med_app)
+Aplicação desenvolvida para estudo de deploy na AWS, banco de dados na nuvem e testes automatizados.  
+> Aprendizados: Deploy contínuo, PostgreSQL na nuvem, integração com GitHub Actions, Python-Django, Django RestFramework
+
+---
+
+### 📌 [Contact_Manager] Back: (https://github.com/CrossGuild33/contact_manager_api) - Front: (https://github.com/CrossGuild33/contact_manager_front)
+Gerenciador de contatos utilizando Python Flask, com foco em rotas REST, e integração com banco de dados; no front-end com html, css e javascript.  
+> Aprendizados: Flask-Python, MySQL, API RESTful, Javascript  boas práticas de versionamento.
+
+---
+
+### 📌 [ContactPage](https://github.com/CrossGuild33/contact-page)
+Página FAQ interativa de perguntas e respostas.  
+> Aprendizados: Bootstrap, React, Javascript.
+
+---
+
+## 📬 **Quer falar comigo?**
+- ✉️ [LinkedIn](https://www.linkedin.com/in/julio-lima-419648282/)
+
+---
+
+> **“Código limpo é como poesia: quanto mais simples e claro, melhor.”**
