@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Julio Cesar Teixeira de Lima
+# 👋 Olá! Eu sou o Julio Lima
 
 Sou um desenvolvedor focado em resolver problemas com tecnologia, criando soluções práticas e funcionais com Python, automações, APIs, bancos de dados e testes.
 
